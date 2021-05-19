@@ -1,4 +1,4 @@
-# Project Name
+# OPC UA to Azure Digital Twins
 
 (short, 1-3 sentenced, description of the project)
 
