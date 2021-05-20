@@ -7,7 +7,7 @@
 This project framework provides the following features:
 
 * Feature 1
-* Feature 2
+* Feature 2.1
 * ...
 
 ## Getting Started
