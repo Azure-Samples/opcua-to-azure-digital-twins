@@ -1,0 +1,33 @@
+{
+    "@id": "dtmi:com:microsoft:iot:opcua:simulation;1",
+    "@type": "Interface",
+    "@context": "dtmi:dtdl:context;2",
+    "displayName": "Simulation",
+    "contents": [
+        {
+            "@type": "Property",
+            "name": "Random",
+            "schema": "double"
+        },
+        {
+            "@type": "Property",
+            "name": "Sawtooth",
+            "schema": "double"
+        },
+        {
+            "@type": "Property",
+            "name": "Sinusoid",
+            "schema": "double"
+        },
+        {
+            "@type": "Property",
+            "name": "Square",
+            "schema": "double"
+        },
+        {
+            "@type": "Property",
+            "name": "Triangle",
+            "schema": "double"
+        }
+    ]
+}

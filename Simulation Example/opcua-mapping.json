@@ -1,0 +1,38 @@
+[
+    {
+        "NodeId": "1001",
+        "TwinId": "simulation",
+        "Property": "Counter",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    },
+    {
+        "NodeId": "1002",
+        "TwinId": "simulation",
+        "Property": "Random",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    },
+    {
+        "NodeId": "1003",
+        "TwinId": "simulation",
+        "Property": "Sawtooth",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    },
+    {
+        "NodeId": "1004",
+        "TwinId": "simulation",
+        "Property": "Sinusoid",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    },
+    {
+        "NodeId": "1005",
+        "TwinId": "simulation",
+        "Property": "Square",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    },
+    {
+        "NodeId": "1006",
+        "TwinId": "simulation",
+        "Property": "Triangle",
+        "ModelId": "dtmi:com:microsoft:iot:opcua:simulation;1"
+    }    
+]

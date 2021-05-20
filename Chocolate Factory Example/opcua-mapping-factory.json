@@ -1,0 +1,68 @@
+[
+    {
+        "NodeId": "1025",
+        "TwinId": "grinding",
+        "Property": "ChasisTemperature",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_grinding;1"
+    },
+    {
+        "NodeId": "1027",
+        "TwinId": "grinding",
+        "Property": "Force",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_grinding;1"
+    },
+    {
+        "NodeId": "1034",
+        "TwinId": "grinding",
+        "Property": "GrindingTime",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_grinding;1"
+    },
+    {
+        "NodeId": "1026",
+        "TwinId": "grinding",
+        "Property": "PowerUsage",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_grinding;1"
+    },
+    {
+        "NodeId": "1028",
+        "TwinId": "grinding",
+        "Property": "Vibration",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_grinding;1"
+    },
+    {
+        "NodeId": "1020",
+        "TwinId": "molding",
+        "Property": "ChasisTemperature",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_moulding;1"
+    },
+    {
+        "NodeId": "1023",
+        "TwinId": "molding",
+        "Property": "PowerUsage",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_moulding;1"
+    },
+    {
+        "NodeId": "1030",
+        "TwinId": "roasting",
+        "Property": "ChasisTemperature",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_fanning;2"
+    },
+    {
+        "NodeId": "1033",
+        "TwinId": "roasting",
+        "Property": "FanSpeed",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_fanning;2"
+    },
+    {
+        "NodeId": "1032",
+        "TwinId": "roasting",
+        "Property": "PowerUsage",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_fanning;2"
+    },
+    {
+        "NodeId": "1031",
+        "TwinId": "roasting",
+        "Property": "RoastingTime",
+        "ModelId": "dtmi:com:microsoft:iot:e2e:digital_factory:production_step_fanning;2"
+    }
+]
