@@ -4,16 +4,16 @@ The OPC Unified Architecture (OPC UA) is a platform independent, service-oriente
 
 Getting OPC UA Server data to flow into Azure Digital Twins requires multiple components installed on different devices, as well as some custom code and settings that need to be configured.
 
-The files in this repo supports [this article](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins) shows that shows you how to connect all the pieces together to get your OPC UA nodes into Azure Digital Twins.
+The files in this repo support [this article](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins) shows that shows you how to connect your OPC UA nodes into Azure Digital Twins.
 
-![opc ua to azure digital twins architecture diagram](../media/opcua-to-adt-diagram-1.png)
+![opc ua to azure digital twins architecture diagram](./media/opcua-to-adt-diagram-1.png)
 
 ## Features
 
 This project framework provides the following features:
 
-* Simulation Example files for simulation dtdl model, opcua-mapping.json, and opcua-mapping.json 
-* Chocolate Factory Example files for opcua-mapping.json and opcua-mapping.json
+* Simulation Example files for dtdl model, opcua-mapping.json, and opcua-mapping.json 
+* Chocolate Factory Example files for opcua-mapping.json and opcua-mapping.json. See [readme.md](./Chocolate%20Factory%20Example) file for more information.
 * Azure Function
 
 ## Getting Started
