@@ -6,7 +6,7 @@ Getting OPC UA Server data to flow into Azure Digital Twins requires multiple co
 
 The files in this repo support [this article](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins) shows that shows you how to connect your OPC UA nodes into Azure Digital Twins.
 
-![opc ua to azure digital twins architecture diagram](./media/opcua-to-adt-diagram-1.png)
+![opc ua to azure digital twins architecture diagram](media/opcua-to-adt-diagram-1.png)
 
 ## Features
 
