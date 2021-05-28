@@ -1,57 +1,21 @@
 # OPC UA to Azure Digital Twins
 
-(short, 1-3 sentenced, description of the project)
+The OPC Unified Architecture (OPC UA) is a platform independent, service-oriented architecture for the manufacturing space. It is used to get telemetry data from devices.
+
+Getting OPC UA Server data to flow into Azure Digital Twins requires multiple components installed on different devices, as well as some custom code and settings that need to be configured.
+
+The files in this repo supports [this article](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins) shows that shows you how to connect all the pieces together to get your OPC UA nodes into Azure Digital Twins.
+
+![opc ua to azure digital twins architecture diagram](../media/opcua-to-adt-diagram-1.png)
 
 ## Features
 
 This project framework provides the following features:
 
-* Feature 1
-* Feature 2.1
-* ...
+* Simulation Example files for simulation dtdl model, opcua-mapping.json, and opcua-mapping.json 
+* Chocolate Factory Example files for opcua-mapping.json and opcua-mapping.json
+* Azure Function
 
 ## Getting Started
 
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+Follow the step-by-step guidance located in the [Azure Digital Twins article here](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins)
