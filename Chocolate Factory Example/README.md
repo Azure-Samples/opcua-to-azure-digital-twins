@@ -7,12 +7,12 @@ The only difference between this sample and the simulation sample is the models,
 ### Step 1: Import Models and Create Twins
 Get the models from the [GitHub Repo](https://github.com/Azure-Samples/digital-twins-samples/tree/master/HandsOnLab) and save them into your Azure Digital Twins insance. Then create your twin graph to look like this:
 
-![screen shot of opc ua server configuration](../media/choc-factory-twin-graph-1.png)
+![screen shot of opc ua server configuration](../Media/choc-factory-twin-graph-1.png)
 
 ### Step 2: OPC UA Simulation Server
 Create specific nodes on your OPC UA Simulation server to emmit telemetry that alignes with your digital twins. Here is a suggested configuration...
 
-![screen shot of opc ua server configuration](../media/opcua-server-1.png)
+![screen shot of opc ua server configuration](../Media/opcua-server-1.png)
 
 ### Step 3: Configure publishednodes.json
 
