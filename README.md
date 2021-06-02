@@ -4,7 +4,7 @@ The OPC Unified Architecture (OPC UA) is a platform independent, service-oriente
 
 Getting OPC UA Server data to flow into Azure Digital Twins requires multiple components installed on different devices, as well as some custom code and settings that need to be configured.
 
-The files in this repo support [this article](https://docs.microsoft.com/azure/digital-twins/how-to-opcua-to-azure-digital-twins) shows that shows you how to connect your OPC UA nodes into Azure Digital Twins.
+The files in this repo support [this article](https://docs.microsoft.com/en-us/azure/digital-twins/how-to-ingest-opcua-data) shows that shows you how to connect your OPC UA nodes into Azure Digital Twins.
 
 ![opc ua to azure digital twins architecture diagram](./Media/opcua-to-adt-diagram-1.png)
 
