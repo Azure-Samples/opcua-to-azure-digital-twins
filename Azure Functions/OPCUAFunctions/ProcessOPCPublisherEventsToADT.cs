@@ -84,7 +84,7 @@ namespace OPCUAFunctions
             foreach (Node node in nodes)
             {
                 // get node id
-                string nodeId = this.getValueFromSplit('=', node.NodeId, 1);
+                string nodeId = this.getValueFromSplit('=', node.NodeId, 2);
 
                 // get mapping information by the node
                 NodeTwinMap map = mapping.Where(x => x.NodeId == nodeId).Single<NodeTwinMap>();
